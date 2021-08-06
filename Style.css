@@ -2,6 +2,10 @@ html {
     background-color: rgb(241, 241, 241);
     font-family: 'Quicksand', 'Arial Narrow', Arial, sans-serif;
 }
+body {
+    padding:0;
+    margin:0;
+}
 .Title {
     text-align: center;
 }
